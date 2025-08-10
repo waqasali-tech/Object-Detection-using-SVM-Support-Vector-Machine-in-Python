@@ -20,4 +20,4 @@ NumPy — Numerical computations
 Dataset
 The dataset used for training is hosted on Google Drive:
 
-Download the dataset here
+https://drive.google.com/drive/folders/11Pp7vZ0JwZu_vS0U2VehSikjaso4Tx-n?usp=drive_link
